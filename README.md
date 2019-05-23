@@ -9,7 +9,7 @@ Identify and compare trending topics on various social media platforms over time
 Determine if there is any similarity between the trending subjects on both Youtube and Twitter platforms. 
 
 ### FrameWork 
-1. SQLWorkbench
+1. MySQLWorkbench
 2. Tableau
 
 ### Data Source
