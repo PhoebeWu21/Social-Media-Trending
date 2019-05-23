@@ -14,3 +14,6 @@ Determine if there is any similarity between the trending subjects on both Youtu
 ### Data Source
 1. YouTube: YouTube API
 2. Twitter: Trendogate Social Feed Manager
+
+#### Pesentation Link: 
+https://docs.google.com/presentation/d/148Da3j4bPuYGTO-VhoI3gXa4K516MwwiGJDIwsXPuUQ/edit?usp=sharing
