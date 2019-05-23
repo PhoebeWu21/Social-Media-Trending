@@ -1,5 +1,6 @@
 # Social Media Trending
 Author : Galen Hancock, Darshan Kasat, Monica Sharma , Kyi Win, Phoebe Wu, Ruyue Zhang
+Date : Sep. 2018 - Dec. 2018
 
 The project for Data Warehousing in George Washington University.
 
